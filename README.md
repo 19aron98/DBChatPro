@@ -30,5 +30,14 @@ DBChatPro is a web application that allows users to query databases using natura
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/19aron98/DBChatPro.git
-   cd DBChatPro
    ```
+2. **Create a environment**
+   ```bash
+   conda create -p dbchatpro python==3.10 -y
+   conda activate dbchatpro
+   ```
+3. **Install the Dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
