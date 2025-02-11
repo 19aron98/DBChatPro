@@ -48,4 +48,14 @@ DBChatPro is a web application that allows users to query databases using natura
    ```bash
    streamlit run app.py
    ```
+### Future Enhancements
+- Support for NoSQL databases.
+- Improved NLP model for more accurate SQL translations.
+- Interactive query optimization suggestions.
+
+### Contributing
+Contributions are welcome! Feel free to submit issues or pull requests.
+
+### License
+This project is licensed under the Apache License.
 
