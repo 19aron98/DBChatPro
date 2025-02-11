@@ -2,19 +2,6 @@
 
 DBChatPro is a web application that allows users to query databases using natural language. It converts English questions into SQL queries and returns answers in plain English using the Gemini Pro API.
 
-## Demo Screenshots
-
-### 🏠 Home Page  
-![Dashboard without connected to database](Web-App%20Images/Dashboard%20without%20connected%20to%20database.png)
-
-
-
-### 📜 SQL Query Generation  
-#![SQL Query Generation](images/sql_query_generation.png)
-
-### 📝 Plain English Answer  
-#![Plain English Answer](images/plain_english_answer.png)
-
 ## Features
 
 - **Natural Language to SQL**: Converts English questions into structured SQL queries.
