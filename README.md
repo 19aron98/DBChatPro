@@ -20,7 +20,7 @@ DBChatPro is a web application that allows users to query databases using natura
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.10
 - Required Python packages (listed in `requirements.txt`)
 - Access to Gemini Pro API
 - A supported SQL database (e.g., MySQL, PostgreSQL, SQLite)
@@ -36,11 +36,15 @@ DBChatPro is a web application that allows users to query databases using natura
    conda create -p dbchatpro python==3.10 -y
    conda activate dbchatpro
    ```
-3. **Install the Dependencies**
+3. **Set up environment variables**
+   ```bash
+   GEMINI_API_KEY="your_gemini_api_key"
+   ```
+4. **Install the Dependencies**
    ```bash
    pip install -r requirements.txt
    ```
-4. **Run Webapp**
+5. **Run Webapp**
    ```bash
    streamlit run app.py
    ```
