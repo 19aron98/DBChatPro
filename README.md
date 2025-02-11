@@ -5,7 +5,8 @@ DBChatPro is a web application that allows users to query databases using natura
 ## Demo Screenshots
 
 ### 🏠 Home Page  
-![Home Page](Web-App Images/Dashboard without connected to database.png)
+![Dashboard without connected to database](Web-App%20Images/Dashboard%20without%20connected%20to%20database.png)
+
 
 ### 📜 SQL Query Generation  
 #![SQL Query Generation](images/sql_query_generation.png)
